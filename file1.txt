@@ -1,0 +1,3 @@
+Firma IVO Software zaprezentowa³a nowy program typu text reader, który pomo¿e wykorzystaæ potencja³ mo¿liwoœci syntezatora mowy IVONA. Nowa aplikacja o nazwie IVONA Reader odczyta - g³osem komputerowego lektora - dowolne teksty na domowych komputerach.
+
+IVONA Reader jest uzupe³nieniem uznanych na ca³ym œwiecie g³osów syntezatora mowy IVONA. Program wraz z g³osami IVONA mo¿na u¿yæ jako lektora. Najwa¿niejszymi funkcjami programu s¹: tworzenie audiobooków, ogl¹danie filmów z lektorem, ods³uchiwanie informacji ze stron internetowych oraz nauka jêzyków obcych - nie tylko na komputerze, ale tak¿e na przenoœnych odtwarzaczach MP3, po zapisaniu do pliku dŸwiêkowego.
